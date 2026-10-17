@@ -1,0 +1,22 @@
+{
+  "lab": "m01l05-03",
+  "lesson": "m01l05",
+  "title": "Create a topic and produce some records",
+  "mode": "checker",
+  "runner": "bash-syntax",
+  "command": "bash -n session.sh",
+  "main": "session.sh",
+  "files": [
+    "run.sh",
+    "session.sh",
+    "setup.sh",
+    "start.sh"
+  ],
+  "stdin": null,
+  "expected": null,
+  "grading": null,
+  "requires": [
+    "bash"
+  ],
+  "note": null
+}

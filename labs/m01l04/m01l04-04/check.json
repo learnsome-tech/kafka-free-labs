@@ -1,0 +1,22 @@
+{
+  "lab": "m01l04-04",
+  "lesson": "m01l04",
+  "title": "Consumer A reads all five from offset zero",
+  "mode": "checker",
+  "runner": "bash-syntax",
+  "command": "bash -n session.sh",
+  "main": "session.sh",
+  "files": [
+    "run.sh",
+    "session.sh",
+    "setup.sh",
+    "start.sh"
+  ],
+  "stdin": null,
+  "expected": null,
+  "grading": null,
+  "requires": [
+    "bash"
+  ],
+  "note": null
+}

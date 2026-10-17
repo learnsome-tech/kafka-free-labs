@@ -1,0 +1,22 @@
+{
+  "lab": "m01l03-05",
+  "lesson": "m01l03",
+  "title": "Describe the topic partition layout",
+  "mode": "checker",
+  "runner": "bash-syntax",
+  "command": "bash -n session.sh",
+  "main": "session.sh",
+  "files": [
+    "run.sh",
+    "session.sh",
+    "setup.sh",
+    "start.sh"
+  ],
+  "stdin": null,
+  "expected": null,
+  "grading": null,
+  "requires": [
+    "bash"
+  ],
+  "note": null
+}

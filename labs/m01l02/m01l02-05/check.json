@@ -1,0 +1,22 @@
+{
+  "lab": "m01l02-05",
+  "lesson": "m01l02",
+  "title": "List topics on the broker",
+  "mode": "checker",
+  "runner": "bash-syntax",
+  "command": "bash -n session.sh",
+  "main": "session.sh",
+  "files": [
+    "run.sh",
+    "session.sh",
+    "setup.sh",
+    "start.sh"
+  ],
+  "stdin": null,
+  "expected": null,
+  "grading": null,
+  "requires": [
+    "bash"
+  ],
+  "note": null
+}

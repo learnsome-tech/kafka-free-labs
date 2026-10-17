@@ -1,0 +1,22 @@
+{
+  "lab": "m01l02-03",
+  "lesson": "m01l02",
+  "title": "Read cluster info and check health",
+  "mode": "checker",
+  "runner": "bash-syntax",
+  "command": "bash -n session.sh",
+  "main": "session.sh",
+  "files": [
+    "run.sh",
+    "session.sh",
+    "setup.sh",
+    "start.sh"
+  ],
+  "stdin": null,
+  "expected": null,
+  "grading": null,
+  "requires": [
+    "bash"
+  ],
+  "note": null
+}

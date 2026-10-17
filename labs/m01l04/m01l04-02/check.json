@@ -1,0 +1,20 @@
+{
+  "lab": "m01l04-02",
+  "lesson": "m01l04",
+  "title": "Start a network and broker",
+  "mode": "checker",
+  "runner": "bash-syntax",
+  "command": "bash -n start.sh",
+  "main": "start.sh",
+  "files": [
+    "run.sh",
+    "start.sh"
+  ],
+  "stdin": null,
+  "expected": null,
+  "grading": null,
+  "requires": [
+    "bash"
+  ],
+  "note": null
+}
